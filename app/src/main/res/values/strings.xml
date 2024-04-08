@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">IMC</string>
+    <string name="digite_seu_nome">Digite seu nome.</string>
+    <string name="digite_sua_altura">Digite sua altura.</string>
+    <string name="digite_seu_peso">Digite seu peso.</string>
+    <string name="calcular_imc">Calcular IMC</string>
+    <string name="contentDescriptionTituloFormTeste">Cálculo de IMC</string>
+    <string name="labelTituloFormTeste">Calcula IMC</string>
+    <string name="resultado">Resultado</string>
+    <string name="voltar">Voltar</string>
+    <string name="resultado_imc">Resultado imc</string>
+</resources>
